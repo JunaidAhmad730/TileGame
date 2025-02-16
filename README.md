@@ -14,4 +14,5 @@ Mouse-based swiping instead of keyboard controls. Dynamic tile merging and movem
 
 Installation:
 
-No installation required! Just open the given link below in any modern web browser. https://obscure-palm-tree-v6rp5p9g9r67fprvj-5500.app.github.dev/webpage.html
+No installation required! Just open the given link below in any modern web browser.
+https://junaidahmad730.github.io/TileGame/
